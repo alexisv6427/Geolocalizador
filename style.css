@@ -1,0 +1,38 @@
+body{
+    font-family:'Open Sans';
+}
+
+h2{
+    font-weight: bold;
+    color:  #ADCBD7;
+}
+
+label{
+    font-weight: bold;
+    color: #6998AB;
+}
+
+input{
+    background-color: #ADCBD7;
+    color: #679497;
+    font-weight: bold;
+}
+
+.Bform{
+    background-color: #1A374D;
+    
+}
+
+button{
+    background-color: #7db5db;
+}
+
+#reset {
+    position: relative;
+    left: 33%;
+}
+
+#mapa{
+    background: rgb(0,212,255);
+    background: linear-gradient(357deg, rgba(0,212,255,1) 0%, rgba(105,152,171,1) 45%, rgba(76,79,140,1) 100%);
+}
